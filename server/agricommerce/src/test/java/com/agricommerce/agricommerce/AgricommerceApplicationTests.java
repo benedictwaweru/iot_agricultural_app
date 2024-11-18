@@ -1,4 +1,4 @@
-package com.ghalabora.agricommerce;
+package com.agricommerce.agricommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
